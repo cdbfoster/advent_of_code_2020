@@ -1,0 +1,19 @@
+[package]
+name = "advent_of_code"
+version = "2020.0.1"
+authors = ["Chris Foster <cdbfoster@gmail.com>"]
+
+[[bin]]
+name = "d01p1"
+
+[[bin]]
+name = "d01p2"
+
+[[bin]]
+name = "d02p1"
+
+[[bin]]
+name = "d02p2"
+
+[dependencies]
+regex = "*"
