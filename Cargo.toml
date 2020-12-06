@@ -33,5 +33,11 @@ name = "d05p1"
 [[bin]]
 name = "d05p2"
 
+[[bin]]
+name = "d06p1"
+
+[[bin]]
+name = "d06p2"
+
 [dependencies]
 regex = "*"
